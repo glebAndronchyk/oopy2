@@ -1,0 +1,17 @@
+D:\univ\y2\2s\oopy2\lb1gui\bin\Debug\net6.0-windows\lb1gui.exe
+D:\univ\y2\2s\oopy2\lb1gui\bin\Debug\net6.0-windows\lb1gui.deps.json
+D:\univ\y2\2s\oopy2\lb1gui\bin\Debug\net6.0-windows\lb1gui.runtimeconfig.json
+D:\univ\y2\2s\oopy2\lb1gui\bin\Debug\net6.0-windows\lb1gui.dll
+D:\univ\y2\2s\oopy2\lb1gui\bin\Debug\net6.0-windows\lb1gui.pdb
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.csproj.AssemblyReference.cache
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.AssemblyInfoInputs.cache
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.AssemblyInfo.cs
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.csproj.CoreCompileInputs.cache
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.dll
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\refint\lb1gui.dll
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.pdb
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.genruntimeconfig.cache
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\ref\lb1gui.dll
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.Form1.resources
+D:\univ\y2\2s\oopy2\lb1gui\obj\Debug\net6.0-windows\lb1gui.csproj.GenerateResource.cache

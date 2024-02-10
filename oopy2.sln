@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lb1", "lb1\lb1.csproj", "{D18AF495-2EBD-47F0-BE58-5CA8B17E3CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lb1gui", "lb1gui\lb1gui.csproj", "{EE6FF3C5-B103-4271-87A9-1518F3EE22BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18AF495-2EBD-47F0-BE58-5CA8B17E3CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18AF495-2EBD-47F0-BE58-5CA8B17E3CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18AF495-2EBD-47F0-BE58-5CA8B17E3CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18AF495-2EBD-47F0-BE58-5CA8B17E3CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6FF3C5-B103-4271-87A9-1518F3EE22BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6FF3C5-B103-4271-87A9-1518F3EE22BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6FF3C5-B103-4271-87A9-1518F3EE22BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6FF3C5-B103-4271-87A9-1518F3EE22BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

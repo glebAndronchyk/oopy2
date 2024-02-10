@@ -1,0 +1,15 @@
+D:\univ\y2\2s\oopy2\lb1\bin\Debug\net7.0\lb1.exe
+D:\univ\y2\2s\oopy2\lb1\bin\Debug\net7.0\lb1.deps.json
+D:\univ\y2\2s\oopy2\lb1\bin\Debug\net7.0\lb1.runtimeconfig.json
+D:\univ\y2\2s\oopy2\lb1\bin\Debug\net7.0\lb1.dll
+D:\univ\y2\2s\oopy2\lb1\bin\Debug\net7.0\lb1.pdb
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.csproj.AssemblyReference.cache
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.AssemblyInfoInputs.cache
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.AssemblyInfo.cs
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.csproj.CoreCompileInputs.cache
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.dll
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\refint\lb1.dll
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.pdb
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\lb1.genruntimeconfig.cache
+D:\univ\y2\2s\oopy2\lb1\obj\Debug\net7.0\ref\lb1.dll
